@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MusicDownloader/app/src/main/res/menu/bottom_nav_menu.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 105,
+          "line": 2
+        },
+        "start": {
+          "column": 0,
+          "index": 105,
+          "line": 2
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/MusicDownloader/app/src/main/res/menu/bottom_nav_menu.xml"
+}
